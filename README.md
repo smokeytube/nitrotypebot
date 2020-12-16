@@ -22,4 +22,4 @@ pip install bs4
 ####You can, though, leave the guest versions of the script running for as long
 ####as you want, as there is no anti-cheat for the guest versions.
 
-![6,000 wpm](assets/nitrotype.png)
+![6,000 wpm](assets/nitrotype1.png)
