@@ -10,7 +10,7 @@ pip install selenium
 pip install bs4
 ```
 
-##WARNING:
+## WARNING:
 
 **Do NOT** modify botguestinstant.py to use your nitrotype account,
 that is one way to INSTANTLY get your account banned.
