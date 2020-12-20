@@ -1,6 +1,10 @@
 #Coded by smokeytube.
 #You have my full permission to modify and distribute as you like
 
+#WARNING: I advise strongly against modifying the code
+#to use on your nitrotype account. The anticheat will
+#instantly ban you.
+
 import string
 import pyautogui
 import time
