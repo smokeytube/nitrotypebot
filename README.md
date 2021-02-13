@@ -24,3 +24,16 @@ You can, though, leave the guest versions of the script running for as long
 as you want, as there is no anti-cheat for the guest versions.
 
 ![6,000 wpm](assets/nitrotype1.png)
+
+
+Contact ZachD#0132 for questions comments, concerns, feature ideas, or bugs.
+
+--CHANGE LOG--
+```
+v1.2 Included source code in the install so you parinoid mfs can lay off
+
+v1.3 Added webdrivers 86-89 to fix the bug of the program not even starting due to wrong version of chrome
+v1.3.1 Fixed a small startup bug
+
+v1.4 Made the source code more organized
+```
