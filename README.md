@@ -35,5 +35,5 @@ v1.2 Included source code in the install so you parinoid mfs can lay off
 v1.3 Added webdrivers 86-89 to fix the bug of the program not even starting due to wrong version of chrome
 v1.3.1 Fixed a small startup bug
 
-v1.4 Made the source code more organized
+v1.4 Made the code more organized
 ```
